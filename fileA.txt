@@ -1,1 +1,4 @@
 Test file A
+
+primeira alteração
+segunda alteração
